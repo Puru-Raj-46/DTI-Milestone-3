@@ -53,7 +53,7 @@
        
             <div class="container">
          
-           <CENTER> ©  allokik pranshu
+           <CENTER> 
             </CENTER>
   
             </div>
